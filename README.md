@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 What I’m currently working on
-- Power BI dashboard projects (Netflix, Sales, Social Media Analytics)
+- Power BI dashboard projects (SaaS Customer Churn Analysis, Netflix, Sales, Social Media Analytics)
 - SQL & Python for data analysis and automation
 - Building analytics projects with basic AI/ML concepts
 
