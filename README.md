@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Harshitha
 
-<!--
-**HarshiDataWorld/HarshiDataWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning data into meaningful insights  
+📊 Skilled in Power BI, SQL, Python, Excel, Data Visualization  
+🤖 Strengthening skills in AI & Machine Learning alongside analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m currently working on
+- Power BI dashboard projects (Netflix, Sales, Social Media Analytics)
+- SQL & Python for data analysis and automation
+- Building analytics projects with basic AI/ML concepts
+
+### 🌱 What I’m currently learning
+- Advanced Power BI (DAX, performance optimization)
+- AI & Machine Learning fundamentals
+- Data storytelling and business-focused insights
+
+### 💬 Ask me about
+- Power BI dashboards  
+- Data analysis projects  
+- SQL, Python, Excel for analytics  
+
+### 👯 I’m looking to collaborate on
+- Beginner-friendly data analysis projects  
+- Analytics, visualization, and ML-learning projects  
+
+### 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/sri-lakshmi-harshitha-nandivada-9727831b3/  
+- GitHub: You’re already here 😊  
+
+---
+
+✨ *Learning analytics, AI, and ML by building real-world projects.*
