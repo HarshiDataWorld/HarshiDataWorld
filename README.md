@@ -1,25 +1,50 @@
 ## Hi there 👋 I'm Harshitha
+  "MBA in Finance + Data Analytics. I turn messy data into business decisions"
 
-🎯 Aspiring Data Analyst passionate about turning data into meaningful insights  
-📊 Skilled in Power BI, SQL, Python, Excel, Data Visualization  
-🤖 Strengthening skills in AI & Machine Learning alongside analytics  
+Hi there 👋 I'm Harshitha
 
----
+🎯 Aspiring Data & Finance Analyst turning data into meaningful business insights
+📊 Skilled in Power BI, SQL, Python, Excel, Data Visualization, Financial Analysis
+🥊 Personal touch: balancing analytics with boxing & gym workouts
+🎓 MBA (Finance) + Analytics experience
 
-### 🔭 What I’m currently working on
-- Power BI dashboard projects (SaaS Customer Churn Analysis, Netflix, Sales, Social Media Analytics)
-- SQL & Python for data analysis and automation
-- Building analytics projects with basic AI/ML concepts
+🔭 What I’m currently working on
 
-### 🌱 What I’m currently learning
-- Advanced Power BI (DAX, performance optimization)
-- AI & Machine Learning fundamentals
-- Data storytelling and business-focused insights
+Power BI dashboard projects: SaaS Customer Churn Analysis, Netflix Analytics, Sales, Social Media Analytics
 
-### 💬 Ask me about
-- Power BI dashboards  
-- Data analysis projects  
-- SQL, Python, Excel for analytics  
+SQL & Python projects for data analysis and automation on real datasets
+
+MBA project work: finance and reporting analytics
+
+Building analytics projects that integrate basic AI/ML concepts
+
+🌱 What I’m currently learning
+
+Building real-world dashboards in Power BI to strengthen practical skills
+
+Advanced SQL & Python techniques for analysis, automation, and workflow efficiency
+
+AI & Machine Learning fundamentals applied on small analytics projects
+
+Data storytelling and business-focused insights, translating data into actionable recommendations
+
+💪 What I’m capable of
+
+Designing interactive dashboards and visualizations in Power BI
+
+Performing SQL & Python-based data analysis on operational, sales, and financial datasets
+
+Applying basic AI/ML concepts for actionable insights and trends
+
+Combining MBA finance knowledge + analytics skills to make business recommendations
+
+💬 Ask me about
+
+Power BI dashboards and finance/business-focused analytics
+
+Data analysis projects using SQL, Python, Excel
+
+Translating data into actionable business insights
 
 ### 👯 I’m looking to collaborate on
 - Beginner-friendly data analysis projects  
@@ -27,6 +52,7 @@
 
 ### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/sri-lakshmi-harshitha-nandivada-9727831b3/  
+- Gmail: harshilukky@gmail.com
 - GitHub: You’re already here 😊  
 
 ---
