@@ -7,6 +7,7 @@ Hi there 👋 I'm Harshitha
 📊 Skilled in Power BI, SQL, Python, Excel, Data Visualization, Financial Analysis
 🥊 Personal touch: balancing analytics with boxing & gym workouts
 🎓 MBA (Finance) + Analytics experience
+###
 ![Static Badge](https://img.shields.io/badge/Python-Data%2520Analysis-blue)
 ![Static Badge](https://img.shields.io/badge/!%5BSQL%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FSQL-Advanced-green))
 ![Static Badge](https://img.shields.io/badge/!%5BPandas%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPandas-Data%2520Cleaning-lightblue))
