@@ -7,6 +7,14 @@ Hi there 👋 I'm Harshitha
 📊 Skilled in Power BI, SQL, Python, Excel, Data Visualization, Financial Analysis
 🥊 Personal touch: balancing analytics with boxing & gym workouts
 🎓 MBA (Finance) + Analytics experience
+![Static Badge](https://img.shields.io/badge/Python-Data%2520Analysis-blue)
+![Static Badge](https://img.shields.io/badge/!%5BSQL%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FSQL-Advanced-green))
+![Static Badge](https://img.shields.io/badge/!%5BPandas%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPandas-Data%2520Cleaning-lightblue))
+![Static Badge](https://img.shields.io/badge/!%5BNumPy%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FNumPy-Numerical%2520Computing-blue))
+![Static Badge](https://img.shields.io/badge/!%5BPower%20BI%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPowerBI-Dashboard-yellow))
+![Static Badge](https://img.shields.io/badge/!%5BExcel%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExcel-Data%2520Analysis-darkgreen))
+![Static Badge](https://img.shields.io/badge/!%5BMachine%20Learning%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FMachineLearning-Beginner-red))
+![Static Badge](https://img.shields.io/badge/!%5BStatistics%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FStatistics-Analysis-purple))
 
 🔭 What I’m currently working on
 
@@ -66,7 +74,13 @@ Translating data into actionable business insights
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshiDataWorld&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Static Badge](https://img.shields.io/badge/Python-Data%2520Analysis-blue)
-
+![Static Badge](https://img.shields.io/badge/!%5BSQL%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FSQL-Advanced-green))
+![Static Badge](https://img.shields.io/badge/!%5BPandas%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPandas-Data%2520Cleaning-lightblue))
+![Static Badge](https://img.shields.io/badge/!%5BNumPy%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FNumPy-Numerical%2520Computing-blue))
+![Static Badge](https://img.shields.io/badge/!%5BPower%20BI%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FPowerBI-Dashboard-yellow))
+![Static Badge](https://img.shields.io/badge/!%5BExcel%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FExcel-Data%2520Analysis-darkgreen))
+![Static Badge](https://img.shields.io/badge/!%5BMachine%20Learning%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FMachineLearning-Beginner-red))
+![Static Badge](https://img.shields.io/badge/!%5BStatistics%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FStatistics-Analysis-purple))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ✨ *Learning analytics, AI, and ML by building real-world projects.*
