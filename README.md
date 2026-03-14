@@ -1,21 +1,25 @@
-# Hi 👋 I'm Harshitha  
+<h1 align="center">Hi 👋 I'm Harshitha</h1>
+<h3 align="center">Aspiring Data & Finance Analyst | Turning Data into Business Insights</h3>
 
-🎯 Aspiring **Data & Finance Analyst** with an MBA in Finance and strong analytical skills.  
-I enjoy transforming **raw data into meaningful business insights and decisions.**
+<p align="center">
+MBA (Finance) graduate passionate about Data Analytics, Dashboard Development and Business Decision Support.
+</p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-- 🎓 MBA (Finance) graduate with hands-on experience in Data Analytics  
-- 📊 Skilled in **SQL, Python, Power BI, Excel, and Data Visualization**  
-- 📈 Passionate about **business insights, financial analytics, and dashboard development**  
-- 🤖 Learning **Machine Learning concepts** applied to real analytics problems  
+- 🎓 MBA in Finance with strong analytical mindset  
+- 📊 Skilled in **SQL, Python, Power BI, Excel, Data Visualization**  
+- 📈 Interested in **Business Analytics, Financial Analytics and Reporting**  
+- 🤖 Currently learning **Machine Learning applications in analytics**  
 - 🥊 Fitness enthusiast balancing analytics with **boxing & gym training**
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠 Skills & Tools  
+
+<p align="center">
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-green)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
@@ -26,51 +30,56 @@ I enjoy transforming **raw data into meaningful business insights and decisions.
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Beginner-red)
 ![Statistics](https://img.shields.io/badge/Statistics-Analysis-purple)
 
+</p>
+
 ---
 
-## 📊 Current Projects  
+## 📊 Featured Projects  
 
-- 📈 **Power BI Dashboards:** SaaS Customer Churn Analysis, Netflix Analytics, Sales Performance, Social Media Insights  
-- 💻 **SQL & Python Projects:** Data cleaning, business analysis, automation on real datasets  
-- 📊 **Finance Analytics:** MBA academic projects focused on reporting and financial insights  
-- 🤖 **Beginner ML Projects:** Applying clustering and predictive concepts  
+- 📈 Power BI Dashboards – SaaS Customer Churn, Netflix Analytics, Sales Insights, Social Media Analytics  
+- 💻 SQL Projects – Business queries, window functions, revenue analysis  
+- 🐍 Python EDA Projects – Data cleaning, visualization, business insights  
+- 🤖 Beginner ML Projects – Customer segmentation & predictive analytics  
 
 ---
 
 ## 🌱 Currently Learning  
 
-- Advanced SQL queries & Python analytics workflows  
-- Dashboard storytelling and business decision support  
-- Applying Machine Learning in analytics use-cases  
-- Improving real-world data project execution  
+- Advanced SQL & Python analytics techniques  
+- Dashboard storytelling and KPI design  
+- Machine Learning basics for business insights  
+- Real-world dataset analysis  
 
 ---
 
-## 💡 What I Can Do  
+## 📈 GitHub Stats  
 
-- Build **interactive Power BI dashboards**  
-- Perform **SQL & Python-based data analysis**  
-- Translate data into **actionable business recommendations**  
-- Combine **finance knowledge + analytics skills**  
+<p align="center">
+
+![Harshitha GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshiDataWorld&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshiDataWorld&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=HarshiDataWorld)
+
+</p>
 
 ---
 
 ## 🤝 Looking to Collaborate  
 
-- Beginner-friendly **Data Analysis projects**  
-- Dashboard & Visualization projects  
-- Analytics learning and ML practice projects  
+- Data Analysis Projects  
+- Dashboard Development  
+- Beginner Machine Learning Projects  
 
 ---
 
 ## 📬 Connect With Me  
 
-- 🔗 LinkedIn:  
-  https://www.linkedin.com/in/sri-lakshmi-harshitha-nandivada-9727831b3/  
+- 🔗 LinkedIn  
+https://www.linkedin.com/in/sri-lakshmi-harshitha-nandivada-9727831b3/  
 
-- 📧 Email:  
-  harshilukky@gmail.com  
+- 📧 Email  
+harshilukky@gmail.com  
 
 ---
 
-✨ *Building strong analytics skills by working on real datasets and business problems.*
+✨ Learning Data Analytics by building real-world projects and business dashboards.
