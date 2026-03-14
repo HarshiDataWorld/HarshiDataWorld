@@ -65,6 +65,8 @@ Translating data into actionable business insights
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshiDataWorld&icon=0&color=0)](https://visitcount.itsvg.in)
+![Static Badge](https://img.shields.io/badge/Python-Data%2520Analysis-blue)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ✨ *Learning analytics, AI, and ML by building real-world projects.*
