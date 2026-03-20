@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Harshitha</h1>
-<h3 align="center">Aspiring Data & Finance Analyst | Turning Data into Business Insights</h3>
+<h3 align="center">Data Analyst | SQL · Python · Power BI · Tableau | Real-world projects across EdTech, Banking & Streaming | MBA Finance | Open to Relocation 🚀</h3>
 
 <p align="center">
 MBA (Finance) graduate passionate about Data Analytics, Dashboard Development and Business Decision Support.
